@@ -1,4 +1,4 @@
-# [Developing and Deploying Cloud Functions]
+# Developing and Deploying Cloud Functions
 
 ## Solution 
 
