@@ -1,6 +1,6 @@
-# [Developing and Deploying Cloud Functions](https://www.cloudskillsboost.google/course_templates/505/labs/361038)
+# [Developing and Deploying Cloud Functions]
 
-## Solution [here](https://youtu.be/uz_Uhxi8hjA)
+## Solution 
 
 ### Run the following Commands in CloudShell
 
@@ -15,12 +15,6 @@ sudo chmod +x shell.sh
 ./shell.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
+### Congratulations 🎉 
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+##### You have successfully completed the lab on Developing and Deploying Cloud Functions
